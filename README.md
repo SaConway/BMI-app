@@ -11,3 +11,5 @@ Calculate your Ideal Body Weight (IBW) by typing your height and gender.
 Save your bmi result and height & weight. This way you can track your history easely. 
 
 [![Phone_Screenshot_4.png](https://s1.postimg.org/3xt7dcnykv/Phone_Screenshot_4.png)](https://postimg.org/image/7hf535qocr/)
+
+Download app: http://www.mediafire.com/file/4k98heopt3dl378/bmiApp.apk
